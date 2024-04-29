@@ -21,3 +21,5 @@ function changeSlide(direction) {
 
   images[newIndex].classList.add('active');
 }
+
+//mousedrag

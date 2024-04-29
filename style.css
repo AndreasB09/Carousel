@@ -1,5 +1,6 @@
 * {
     margin: auto;
+    background-color: #D2DAEE;
 }
 
 .carousel img {
@@ -11,6 +12,7 @@
 }
 
 .carousel-container {
+    margin-top: 20px;
     display: flex;
     flex-direction: column;
     /* justify-content: center; */
@@ -29,5 +31,14 @@ button {
     margin: 10px;
     color: white;
     text-shadow: 0 0 8px rgb(0, 0, 0);
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+button:hover {
+    background-color: #3A91AA;
+}
+
+img {
     border-radius: 5px;
 }
