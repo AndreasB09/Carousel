@@ -24,7 +24,7 @@
     margin-top: 20px;
 }
 
-button {
+#next, #previous {
     width: 100px;
     height: 40px;
     background-color: #0360AD;
@@ -35,10 +35,16 @@ button {
     font-size: 1rem;
 }
 
-button:hover {
+#next:hover, #previous:hover {
     background-color: #3A91AA;
 }
 
 img {
     border-radius: 5px;
+}
+
+/* header */
+header {
+    height: 100px;
+    background-color: #3A91AA;
 }
