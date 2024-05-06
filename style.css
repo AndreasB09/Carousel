@@ -76,7 +76,7 @@ nav.menu ul li a {
 
 /* mousedrag carousel */
 .mousedrag-container {
-    width: 100%;
+    width: 500px;
     height: 100px;
     position: absolute;
     overflow: hidden;
