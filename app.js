@@ -23,3 +23,9 @@ function changeSlide(direction) {
 }
 
 //mousedrag
+let mousedragContainer = document.querySelectorAll(".mousedrag-container");
+let itemsContainer = document.querySelector(".items-container");
+
+let pressed = false;
+let startX;
+let x;
