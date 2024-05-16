@@ -97,3 +97,7 @@ nav.menu ul li a {
     border-radius: 5px;
     background-color: rgba(0, 0, 0, 0.562);
 }
+
+.dropdown {
+    overflow: hidden;
+}
